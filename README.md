@@ -221,7 +221,8 @@ npm run dev
 ---
 
 ## 👤 Authors
-Snigdha Bishal
+Snigdha Bishal \n
+
 Sankhadeep Nag 
 
 
