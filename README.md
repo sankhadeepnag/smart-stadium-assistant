@@ -220,6 +220,9 @@ npm run dev
 
 ---
 
-## 👤 Author
+## 👤 Authors
+Snigdha Bishal
+Sankhadeep Nag 
+
 
 Built for **Hack2Skill Virtual PromptWars** · April 2026
